@@ -1,40 +1,48 @@
-# Tailor Ease
+# TailorEase - Digital Tailoring & Order Management System
 
 ## Project Overview
 
-Tailor Ease is a proposed software system intended to help tailoring businesses manage their customers, measurements, clothing orders, and delivery information.
+TailorEase is a proposed software system designed to help a tailoring shop owner manage customer information, garment measurements, clothing orders, fitting dates, delivery schedules, and payment records in one place.
 
 ## Problem Statement
 
-Managing customer records, measurements, and clothing orders manually can be difficult for tailors. Tailor Ease aims to provide a more organized way to manage these activities.
+Managing customer details, measurements, order instructions, delivery dates, and payments manually can cause misplaced records, confusion, and missed deadlines. TailorEase aims to organize these activities in a single system.
 
 ## Project Objectives
 
-* Organize customer information and measurements.
-* Maintain clothing order records.
-* Track order progress and delivery information.
-* Improve record management for tailoring businesses.
+* Manage customer profiles and previous orders.
+* Store garment measurements and fitting notes.
+* Track clothing orders, fitting dates, and delivery status.
+* Record order costs, advances, payments, and remaining balances.
+* Display active orders, upcoming deliveries, overdue orders, and unpaid balances.
 
-## Proposed Features
+## Project Scope
 
-The final features will be determined during the project planning and requirements phase.
+The proposed system is designed for one tailoring shop and one shop owner. Customers will not log in or place orders through the system.
 
-## Technology Stack
+## Proposed Technology Stack
 
-To be decided during project planning.
+* HTML
+* CSS and Bootstrap
+* Java Servlets and JSP
+* MySQL and SQL
+* JDBC (MySQL Connector/J)
+* Apache Tomcat
+* Visual Studio Code
+* draw.io
+* Git and GitHub
 
 ## Team Members
 
-* Member 1: Laiba zafar khan
-* Member 2: Izhar ul Haq
-* Member 3: Ayesha parveen
-* Member 4: Amjid Ali
+* Amjid Ali
+* Ayesha Parveen
+* Izhar Ul Haq
+* Laiba Zafar Khan
 
 ## Repository Structure
 
-* Meeting-Minutes— Project meeting records.
-* Milestone-1— First milestone documents.
-* Milestone-2— Second milestone documents.
+* Meeting Minutes— Project meeting records.
+* Milestone 1— Project proposal and milestone documents.
 
 ## Project Status
 
