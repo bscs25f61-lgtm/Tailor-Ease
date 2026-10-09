@@ -46,4 +46,4 @@ The proposed system is designed for one tailoring shop and one shop owner. Custo
 
 ## Project Status
 
-Project proposal and planning are in progress.
+submitted
