@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-TailorEase is a proposed software system designed to help a tailoring shop owner manage customer information, garment measurements, clothing orders, fitting dates, delivery schedules, and payment records in one place.
+TailorEase is a proposed software system designed to help a tailoring shop owner manage customer information, garment measurements, clothing orders, , delivery schedules, and payment records in one place.
 
 ## Problem Statement
 
@@ -14,7 +14,7 @@ Managing customer details, measurements, order instructions, delivery dates, and
 * Store garment measurements and fitting notes.
 * Track clothing orders, fitting dates, and delivery status.
 * Record order costs, advances, payments, and remaining balances.
-* Display active orders, upcoming deliveries, overdue orders, and unpaid balances.
+* Display active orders, upcoming deliveries, overdue orders.
 
 ## Project Scope
 
@@ -34,10 +34,10 @@ The proposed system is designed for one tailoring shop and one shop owner. Custo
 
 ## Team Members
 
-* Amjid Ali
-* Ayesha Parveen
 * Izhar Ul Haq
 * Laiba Zafar Khan
+* Ayesha Parveen
+* Amjid Ali
 
 ## Repository Structure
 
